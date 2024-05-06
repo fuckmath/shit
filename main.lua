@@ -1,6 +1,6 @@
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Matrix - Counter Blox", HidePremium = false, SaveConfig = false, ConfigFolder = "CFG"})
+local Window = OrionLib:MakeWindow({Name = "Matrix - Counter Blox - DC: mtx422", HidePremium = false, SaveConfig = false, ConfigFolder = "CFG"})
 
 local colorMod = game.Workspace.Camera.ColorCorrection
 local RunService = game:GetService("RunService")
